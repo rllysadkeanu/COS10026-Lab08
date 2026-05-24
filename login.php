@@ -8,7 +8,7 @@
     <label for="password">Password:</label>
     <input type="password" name="password" required><br><br>
 
-    <input type="hidden" name="token" value="A1234567">
+    <input type="hidden" name="token" value="L106421322">
     
     <input type="submit" value="Login">
 </form>
